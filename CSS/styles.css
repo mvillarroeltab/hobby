@@ -93,6 +93,12 @@ p {
   text-align: left;
   line-height: 2;
 }
+.bottom-container {
+  padding: 30px;
+  background-color: #66bfbf;
+  line-height: 2;
+  font-size:0.6rem;
+}
 .image-list {
   width: 50%;
   margin: 100px auto 100px;
