@@ -95,9 +95,17 @@ p {
 }
 .bottom-container {
   padding: 30px;
-  background-color: #66bfbf;
+  background-color: #2a7886;
   line-height: 2;
   font-size:0.6rem;
+}
+.footer-copyright {
+  color: #eaf6f6;
+
+}
+
+.footer-link {
+  margin: 30PX;
 }
 .image-list {
   width: 50%;
